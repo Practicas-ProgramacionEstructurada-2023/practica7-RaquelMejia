@@ -1,0 +1,14 @@
+C:\Users\Isaí Meléndez\Desktop\REPOSITORIONUEVO\practica7-RaquelMejia\bin\Debug\net7.0\practica7-RaquelMejia.exe
+C:\Users\Isaí Meléndez\Desktop\REPOSITORIONUEVO\practica7-RaquelMejia\bin\Debug\net7.0\practica7-RaquelMejia.deps.json
+C:\Users\Isaí Meléndez\Desktop\REPOSITORIONUEVO\practica7-RaquelMejia\bin\Debug\net7.0\practica7-RaquelMejia.runtimeconfig.json
+C:\Users\Isaí Meléndez\Desktop\REPOSITORIONUEVO\practica7-RaquelMejia\bin\Debug\net7.0\practica7-RaquelMejia.dll
+C:\Users\Isaí Meléndez\Desktop\REPOSITORIONUEVO\practica7-RaquelMejia\bin\Debug\net7.0\practica7-RaquelMejia.pdb
+C:\Users\Isaí Meléndez\Desktop\REPOSITORIONUEVO\practica7-RaquelMejia\obj\Debug\net7.0\practica7-RaquelMejia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaí Meléndez\Desktop\REPOSITORIONUEVO\practica7-RaquelMejia\obj\Debug\net7.0\practica7-RaquelMejia.AssemblyInfoInputs.cache
+C:\Users\Isaí Meléndez\Desktop\REPOSITORIONUEVO\practica7-RaquelMejia\obj\Debug\net7.0\practica7-RaquelMejia.AssemblyInfo.cs
+C:\Users\Isaí Meléndez\Desktop\REPOSITORIONUEVO\practica7-RaquelMejia\obj\Debug\net7.0\practica7-RaquelMejia.csproj.CoreCompileInputs.cache
+C:\Users\Isaí Meléndez\Desktop\REPOSITORIONUEVO\practica7-RaquelMejia\obj\Debug\net7.0\practica7-RaquelMejia.dll
+C:\Users\Isaí Meléndez\Desktop\REPOSITORIONUEVO\practica7-RaquelMejia\obj\Debug\net7.0\refint\practica7-RaquelMejia.dll
+C:\Users\Isaí Meléndez\Desktop\REPOSITORIONUEVO\practica7-RaquelMejia\obj\Debug\net7.0\practica7-RaquelMejia.pdb
+C:\Users\Isaí Meléndez\Desktop\REPOSITORIONUEVO\practica7-RaquelMejia\obj\Debug\net7.0\practica7-RaquelMejia.genruntimeconfig.cache
+C:\Users\Isaí Meléndez\Desktop\REPOSITORIONUEVO\practica7-RaquelMejia\obj\Debug\net7.0\ref\practica7-RaquelMejia.dll
